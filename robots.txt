@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /archives/
+Disallow: /categories/
+Disallow: /fancybox/
+Disallow: /tag/
+Disallow: /tags/
+Disallow: /category/
+Disallow: /page/
+Disallow: /content.json
+Disallow: /404.shtml
+Disallow: /404img.gif
