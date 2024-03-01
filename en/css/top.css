@@ -1,0 +1,84 @@
+@charset "UTF-8";body,div,h1,h2,h3,li,ol,p,pre,ul {
+    margin: 0;
+    padding: 0
+}
+
+body {
+    color: #222;
+    font-family: Helvetica,'Helvetica',Helvetica,Arial,'游ゴシック体',YuGothic,'游ゴシック','Yu Gothic','メイリオ',sans-serif;
+    font-weight: 500
+}
+p {
+    font-size: 18px;
+    line-height: 1.75;
+    margin: 25px 0 25px 0;
+    color: #222
+}
+
+a:link {
+    color: #1e79a7
+}
+
+a:visited {
+    color: #1e79a7
+}
+
+
+h1 {
+    max-width: 1062px;
+    font-size: 20px;
+    margin: 10px auto 5px auto;
+    color: #261e1c;
+    font-family: Arial
+}
+div.container {
+    max-width: 1250px;
+    margin: 0 auto
+}
+#footer {
+    border-top: 1px solid #ccc;
+    padding: 5px 0;
+    width: 100% margin: 0 auto;
+    color: #fff;
+    text-align: center;
+    background: none repeat scroll 0 0 #000
+}
+.topbox {
+    position: relative;
+    margin: 2em 2em;
+    padding: .5em 1em;
+    border: solid 2px #696969;
+    border-radius: 6px
+}
+
+.topbox .box-title {
+    position: absolute;
+    display: inline-block;
+    top: -13px;
+    left: 10px;
+    padding: 0 9px;
+    line-height: 1;
+    font-size: 19px;
+    background: #fff;
+    color: #0168b3;
+    font-weight: 700
+}
+
+.topbox p {
+    margin: 0;
+    padding: 0
+}
+
+.topbox .title {
+    font-size: 18px;
+    margin: 10px 0 0 0
+}
+
+.topbox .summary {
+    font-size: 14px;
+    margin: 0
+}
+
+    h1 {
+        padding: 0 10px
+    }
