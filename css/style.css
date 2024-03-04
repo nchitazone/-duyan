@@ -948,6 +948,11 @@ a.article-title:hover {
   margin-right: 0.5em;
 }
 #toc {
+  position: sticky !important;
+  position: -webkit-sticky;
+  overflow: hidden;
+  top: 0px;
+  z-index: 1;
   line-height: 1em;
   font-size: 0.9em;
   float: left;
