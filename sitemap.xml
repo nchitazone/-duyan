@@ -3,6 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://laptrinhcanban.com/java/java-co-ban-cho-nguoi-moi-bat-dau/bien-va-kieu-du-lieu-trong-java/bien-trong-java-la-gi/</loc>
+    <xhtml:link
+       rel="alternate"
+       hreflang="vi"
+       href="https://laptrinhcanban.com/java/java-co-ban-cho-nguoi-moi-bat-dau/bien-va-kieu-du-lieu-trong-java/bien-trong-java-la-gi/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="en"
+       href="https://laptrinhcanban.com/en/java/java-co-ban-cho-nguoi-moi-bat-dau/bien-va-kieu-du-lieu-trong-java/bien-trong-java-la-gi/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="ja"
+       href="https://laptrinhcanban.com/ja/java/java-co-ban-cho-nguoi-moi-bat-dau/bien-va-kieu-du-lieu-trong-java/bien-trong-java-la-gi/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="x-default"
+       href="https://laptrinhcanban.com/java/java-co-ban-cho-nguoi-moi-bat-dau/bien-va-kieu-du-lieu-trong-java/bien-trong-java-la-gi/"/>
+    
+    <lastmod>2024-03-04</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://laptrinhcanban.com/java/java-co-ban-cho-nguoi-moi-bat-dau/cai-dat-encode-trong-java/kiem-tra-encode-mac-dinh-trong-java/</loc>
     <xhtml:link
        rel="alternate"
@@ -7087,29 +7110,6 @@
   </url>
   
   <url>
-    <loc>https://laptrinhcanban.com/c/lap-trinh-c-co-ban/chuoi-string-trong-c/kiem-tra-chu-hoa-chu-thuong-trong-c/</loc>
-    <xhtml:link
-       rel="alternate"
-       hreflang="vi"
-       href="https://laptrinhcanban.com/c/lap-trinh-c-co-ban/chuoi-string-trong-c/kiem-tra-chu-hoa-chu-thuong-trong-c/"/>
-    <xhtml:link
-       rel="alternate"
-       hreflang="en"
-       href="https://laptrinhcanban.com/en/c/lap-trinh-c-co-ban/chuoi-string-trong-c/kiem-tra-chu-hoa-chu-thuong-trong-c/"/>
-    <xhtml:link
-       rel="alternate"
-       hreflang="ja"
-       href="https://laptrinhcanban.com/ja/c/lap-trinh-c-co-ban/chuoi-string-trong-c/kiem-tra-chu-hoa-chu-thuong-trong-c/"/>
-    <xhtml:link
-       rel="alternate"
-       hreflang="x-default"
-       href="https://laptrinhcanban.com/c/lap-trinh-c-co-ban/chuoi-string-trong-c/kiem-tra-chu-hoa-chu-thuong-trong-c/"/>
-    
-    <lastmod>2023-09-19</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://laptrinhcanban.com/c/lap-trinh-c-co-ban/chuoi-string-trong-c/khai-bao-chuoi-trong-c/</loc>
     <xhtml:link
        rel="alternate"
@@ -7133,23 +7133,23 @@
   </url>
   
   <url>
-    <loc>https://laptrinhcanban.com/c/lap-trinh-c-co-ban/chuoi-string-trong-c/nhap-chuoi-trong-c/</loc>
+    <loc>https://laptrinhcanban.com/c/lap-trinh-c-co-ban/chuoi-string-trong-c/kiem-tra-chu-hoa-chu-thuong-trong-c/</loc>
     <xhtml:link
        rel="alternate"
        hreflang="vi"
-       href="https://laptrinhcanban.com/c/lap-trinh-c-co-ban/chuoi-string-trong-c/nhap-chuoi-trong-c/"/>
+       href="https://laptrinhcanban.com/c/lap-trinh-c-co-ban/chuoi-string-trong-c/kiem-tra-chu-hoa-chu-thuong-trong-c/"/>
     <xhtml:link
        rel="alternate"
        hreflang="en"
-       href="https://laptrinhcanban.com/en/c/lap-trinh-c-co-ban/chuoi-string-trong-c/nhap-chuoi-trong-c/"/>
+       href="https://laptrinhcanban.com/en/c/lap-trinh-c-co-ban/chuoi-string-trong-c/kiem-tra-chu-hoa-chu-thuong-trong-c/"/>
     <xhtml:link
        rel="alternate"
        hreflang="ja"
-       href="https://laptrinhcanban.com/ja/c/lap-trinh-c-co-ban/chuoi-string-trong-c/nhap-chuoi-trong-c/"/>
+       href="https://laptrinhcanban.com/ja/c/lap-trinh-c-co-ban/chuoi-string-trong-c/kiem-tra-chu-hoa-chu-thuong-trong-c/"/>
     <xhtml:link
        rel="alternate"
        hreflang="x-default"
-       href="https://laptrinhcanban.com/c/lap-trinh-c-co-ban/chuoi-string-trong-c/nhap-chuoi-trong-c/"/>
+       href="https://laptrinhcanban.com/c/lap-trinh-c-co-ban/chuoi-string-trong-c/kiem-tra-chu-hoa-chu-thuong-trong-c/"/>
     
     <lastmod>2023-09-19</lastmod>
     
@@ -7179,23 +7179,23 @@
   </url>
   
   <url>
-    <loc>https://laptrinhcanban.com/c/lap-trinh-c-co-ban/chuoi-string-trong-c/dao-nguoc-chuoi-trong-c/</loc>
+    <loc>https://laptrinhcanban.com/c/lap-trinh-c-co-ban/chuoi-string-trong-c/nhap-chuoi-trong-c/</loc>
     <xhtml:link
        rel="alternate"
        hreflang="vi"
-       href="https://laptrinhcanban.com/c/lap-trinh-c-co-ban/chuoi-string-trong-c/dao-nguoc-chuoi-trong-c/"/>
+       href="https://laptrinhcanban.com/c/lap-trinh-c-co-ban/chuoi-string-trong-c/nhap-chuoi-trong-c/"/>
     <xhtml:link
        rel="alternate"
        hreflang="en"
-       href="https://laptrinhcanban.com/en/c/lap-trinh-c-co-ban/chuoi-string-trong-c/dao-nguoc-chuoi-trong-c/"/>
+       href="https://laptrinhcanban.com/en/c/lap-trinh-c-co-ban/chuoi-string-trong-c/nhap-chuoi-trong-c/"/>
     <xhtml:link
        rel="alternate"
        hreflang="ja"
-       href="https://laptrinhcanban.com/ja/c/lap-trinh-c-co-ban/chuoi-string-trong-c/dao-nguoc-chuoi-trong-c/"/>
+       href="https://laptrinhcanban.com/ja/c/lap-trinh-c-co-ban/chuoi-string-trong-c/nhap-chuoi-trong-c/"/>
     <xhtml:link
        rel="alternate"
        hreflang="x-default"
-       href="https://laptrinhcanban.com/c/lap-trinh-c-co-ban/chuoi-string-trong-c/dao-nguoc-chuoi-trong-c/"/>
+       href="https://laptrinhcanban.com/c/lap-trinh-c-co-ban/chuoi-string-trong-c/nhap-chuoi-trong-c/"/>
     
     <lastmod>2023-09-19</lastmod>
     
@@ -7219,6 +7219,29 @@
        rel="alternate"
        hreflang="x-default"
        href="https://laptrinhcanban.com/c/lap-trinh-c-co-ban/chuoi-string-trong-c/copy-chuoi-trong-c/"/>
+    
+    <lastmod>2023-09-19</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://laptrinhcanban.com/c/lap-trinh-c-co-ban/chuoi-string-trong-c/dao-nguoc-chuoi-trong-c/</loc>
+    <xhtml:link
+       rel="alternate"
+       hreflang="vi"
+       href="https://laptrinhcanban.com/c/lap-trinh-c-co-ban/chuoi-string-trong-c/dao-nguoc-chuoi-trong-c/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="en"
+       href="https://laptrinhcanban.com/en/c/lap-trinh-c-co-ban/chuoi-string-trong-c/dao-nguoc-chuoi-trong-c/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="ja"
+       href="https://laptrinhcanban.com/ja/c/lap-trinh-c-co-ban/chuoi-string-trong-c/dao-nguoc-chuoi-trong-c/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="x-default"
+       href="https://laptrinhcanban.com/c/lap-trinh-c-co-ban/chuoi-string-trong-c/dao-nguoc-chuoi-trong-c/"/>
     
     <lastmod>2023-09-19</lastmod>
     
@@ -11066,29 +11089,6 @@
   </url>
   
   <url>
-    <loc>https://laptrinhcanban.com/cpp/lap-trinh-cpp-co-ban/lenh-dieu-kien-trong-cpp/toan-tu-logic-trong-cpp/</loc>
-    <xhtml:link
-       rel="alternate"
-       hreflang="vi"
-       href="https://laptrinhcanban.com/cpp/lap-trinh-cpp-co-ban/lenh-dieu-kien-trong-cpp/toan-tu-logic-trong-cpp/"/>
-    <xhtml:link
-       rel="alternate"
-       hreflang="en"
-       href="https://laptrinhcanban.com/en/cpp/lap-trinh-cpp-co-ban/lenh-dieu-kien-trong-cpp/toan-tu-logic-trong-cpp/"/>
-    <xhtml:link
-       rel="alternate"
-       hreflang="ja"
-       href="https://laptrinhcanban.com/ja/cpp/lap-trinh-cpp-co-ban/lenh-dieu-kien-trong-cpp/toan-tu-logic-trong-cpp/"/>
-    <xhtml:link
-       rel="alternate"
-       hreflang="x-default"
-       href="https://laptrinhcanban.com/cpp/lap-trinh-cpp-co-ban/lenh-dieu-kien-trong-cpp/toan-tu-logic-trong-cpp/"/>
-    
-    <lastmod>2022-10-29</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://laptrinhcanban.com/php/nhap-mon-lap-trinh-php/toan-tu-trong-php/toan-tu-logic-trong-php/</loc>
     <xhtml:link
        rel="alternate"
@@ -11106,6 +11106,29 @@
        rel="alternate"
        hreflang="x-default"
        href="https://laptrinhcanban.com/php/nhap-mon-lap-trinh-php/toan-tu-trong-php/toan-tu-logic-trong-php/"/>
+    
+    <lastmod>2022-10-29</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://laptrinhcanban.com/cpp/lap-trinh-cpp-co-ban/lenh-dieu-kien-trong-cpp/toan-tu-logic-trong-cpp/</loc>
+    <xhtml:link
+       rel="alternate"
+       hreflang="vi"
+       href="https://laptrinhcanban.com/cpp/lap-trinh-cpp-co-ban/lenh-dieu-kien-trong-cpp/toan-tu-logic-trong-cpp/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="en"
+       href="https://laptrinhcanban.com/en/cpp/lap-trinh-cpp-co-ban/lenh-dieu-kien-trong-cpp/toan-tu-logic-trong-cpp/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="ja"
+       href="https://laptrinhcanban.com/ja/cpp/lap-trinh-cpp-co-ban/lenh-dieu-kien-trong-cpp/toan-tu-logic-trong-cpp/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="x-default"
+       href="https://laptrinhcanban.com/cpp/lap-trinh-cpp-co-ban/lenh-dieu-kien-trong-cpp/toan-tu-logic-trong-cpp/"/>
     
     <lastmod>2022-10-29</lastmod>
     
@@ -21393,29 +21416,6 @@
   </url>
   
   <url>
-    <loc>https://laptrinhcanban.com/java/java-co-ban-cho-nguoi-moi-bat-dau/bien-va-kieu-du-lieu-trong-java/bien-trong-java-la-gi/</loc>
-    <xhtml:link
-       rel="alternate"
-       hreflang="vi"
-       href="https://laptrinhcanban.com/java/java-co-ban-cho-nguoi-moi-bat-dau/bien-va-kieu-du-lieu-trong-java/bien-trong-java-la-gi/"/>
-    <xhtml:link
-       rel="alternate"
-       hreflang="en"
-       href="https://laptrinhcanban.com/en/java/java-co-ban-cho-nguoi-moi-bat-dau/bien-va-kieu-du-lieu-trong-java/bien-trong-java-la-gi/"/>
-    <xhtml:link
-       rel="alternate"
-       hreflang="ja"
-       href="https://laptrinhcanban.com/ja/java/java-co-ban-cho-nguoi-moi-bat-dau/bien-va-kieu-du-lieu-trong-java/bien-trong-java-la-gi/"/>
-    <xhtml:link
-       rel="alternate"
-       hreflang="x-default"
-       href="https://laptrinhcanban.com/java/java-co-ban-cho-nguoi-moi-bat-dau/bien-va-kieu-du-lieu-trong-java/bien-trong-java-la-gi/"/>
-    
-    <lastmod>2021-11-09</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://laptrinhcanban.com/java/java-co-ban-cho-nguoi-moi-bat-dau/toan-tu-trong-java/toan-tu-tang-va-giam-trong-java/</loc>
     <xhtml:link
        rel="alternate"
@@ -22451,29 +22451,6 @@
   </url>
   
   <url>
-    <loc>https://laptrinhcanban.com/cpp/lap-trinh-cpp-co-ban/chuoi-string-trong-cpp/xoa-chuoi-trong-cpp/</loc>
-    <xhtml:link
-       rel="alternate"
-       hreflang="vi"
-       href="https://laptrinhcanban.com/cpp/lap-trinh-cpp-co-ban/chuoi-string-trong-cpp/xoa-chuoi-trong-cpp/"/>
-    <xhtml:link
-       rel="alternate"
-       hreflang="en"
-       href="https://laptrinhcanban.com/en/cpp/lap-trinh-cpp-co-ban/chuoi-string-trong-cpp/xoa-chuoi-trong-cpp/"/>
-    <xhtml:link
-       rel="alternate"
-       hreflang="ja"
-       href="https://laptrinhcanban.com/ja/cpp/lap-trinh-cpp-co-ban/chuoi-string-trong-cpp/xoa-chuoi-trong-cpp/"/>
-    <xhtml:link
-       rel="alternate"
-       hreflang="x-default"
-       href="https://laptrinhcanban.com/cpp/lap-trinh-cpp-co-ban/chuoi-string-trong-cpp/xoa-chuoi-trong-cpp/"/>
-    
-    <lastmod>2021-10-21</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://laptrinhcanban.com/cpp/lap-trinh-cpp-co-ban/chuoi-string-trong-cpp/xoa-khoang-trang-trong-chuoi-cpp/</loc>
     <xhtml:link
        rel="alternate"
@@ -22491,6 +22468,29 @@
        rel="alternate"
        hreflang="x-default"
        href="https://laptrinhcanban.com/cpp/lap-trinh-cpp-co-ban/chuoi-string-trong-cpp/xoa-khoang-trang-trong-chuoi-cpp/"/>
+    
+    <lastmod>2021-10-21</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://laptrinhcanban.com/cpp/lap-trinh-cpp-co-ban/chuoi-string-trong-cpp/xoa-chuoi-trong-cpp/</loc>
+    <xhtml:link
+       rel="alternate"
+       hreflang="vi"
+       href="https://laptrinhcanban.com/cpp/lap-trinh-cpp-co-ban/chuoi-string-trong-cpp/xoa-chuoi-trong-cpp/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="en"
+       href="https://laptrinhcanban.com/en/cpp/lap-trinh-cpp-co-ban/chuoi-string-trong-cpp/xoa-chuoi-trong-cpp/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="ja"
+       href="https://laptrinhcanban.com/ja/cpp/lap-trinh-cpp-co-ban/chuoi-string-trong-cpp/xoa-chuoi-trong-cpp/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="x-default"
+       href="https://laptrinhcanban.com/cpp/lap-trinh-cpp-co-ban/chuoi-string-trong-cpp/xoa-chuoi-trong-cpp/"/>
     
     <lastmod>2021-10-21</lastmod>
     
@@ -22934,29 +22934,6 @@
   </url>
   
   <url>
-    <loc>https://laptrinhcanban.com/c/lap-trinh-c-co-ban/mang-trong-c/</loc>
-    <xhtml:link
-       rel="alternate"
-       hreflang="vi"
-       href="https://laptrinhcanban.com/c/lap-trinh-c-co-ban/mang-trong-c/"/>
-    <xhtml:link
-       rel="alternate"
-       hreflang="en"
-       href="https://laptrinhcanban.com/en/c/lap-trinh-c-co-ban/mang-trong-c/"/>
-    <xhtml:link
-       rel="alternate"
-       hreflang="ja"
-       href="https://laptrinhcanban.com/ja/c/lap-trinh-c-co-ban/mang-trong-c/"/>
-    <xhtml:link
-       rel="alternate"
-       hreflang="x-default"
-       href="https://laptrinhcanban.com/c/lap-trinh-c-co-ban/mang-trong-c/"/>
-    
-    <lastmod>2021-10-21</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://laptrinhcanban.com/c/lap-trinh-c-co-ban/so-trong-c/</loc>
     <xhtml:link
        rel="alternate"
@@ -22974,6 +22951,29 @@
        rel="alternate"
        hreflang="x-default"
        href="https://laptrinhcanban.com/c/lap-trinh-c-co-ban/so-trong-c/"/>
+    
+    <lastmod>2021-10-21</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://laptrinhcanban.com/c/lap-trinh-c-co-ban/mang-trong-c/</loc>
+    <xhtml:link
+       rel="alternate"
+       hreflang="vi"
+       href="https://laptrinhcanban.com/c/lap-trinh-c-co-ban/mang-trong-c/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="en"
+       href="https://laptrinhcanban.com/en/c/lap-trinh-c-co-ban/mang-trong-c/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="ja"
+       href="https://laptrinhcanban.com/ja/c/lap-trinh-c-co-ban/mang-trong-c/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="x-default"
+       href="https://laptrinhcanban.com/c/lap-trinh-c-co-ban/mang-trong-c/"/>
     
     <lastmod>2021-10-21</lastmod>
     
@@ -23049,29 +23049,6 @@
   </url>
   
   <url>
-    <loc>https://laptrinhcanban.com/java/java-co-ban-cho-nguoi-moi-bat-dau/cai-dat-java/</loc>
-    <xhtml:link
-       rel="alternate"
-       hreflang="vi"
-       href="https://laptrinhcanban.com/java/java-co-ban-cho-nguoi-moi-bat-dau/cai-dat-java/"/>
-    <xhtml:link
-       rel="alternate"
-       hreflang="en"
-       href="https://laptrinhcanban.com/en/java/java-co-ban-cho-nguoi-moi-bat-dau/cai-dat-java/"/>
-    <xhtml:link
-       rel="alternate"
-       hreflang="ja"
-       href="https://laptrinhcanban.com/ja/java/java-co-ban-cho-nguoi-moi-bat-dau/cai-dat-java/"/>
-    <xhtml:link
-       rel="alternate"
-       hreflang="x-default"
-       href="https://laptrinhcanban.com/java/java-co-ban-cho-nguoi-moi-bat-dau/cai-dat-java/"/>
-    
-    <lastmod>2021-10-21</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://laptrinhcanban.com/cpp/lap-trinh-cpp-co-ban/viet-chuong-trinh-cpp/</loc>
     <xhtml:link
        rel="alternate"
@@ -23089,6 +23066,29 @@
        rel="alternate"
        hreflang="x-default"
        href="https://laptrinhcanban.com/cpp/lap-trinh-cpp-co-ban/viet-chuong-trinh-cpp/"/>
+    
+    <lastmod>2021-10-21</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://laptrinhcanban.com/java/java-co-ban-cho-nguoi-moi-bat-dau/cai-dat-java/</loc>
+    <xhtml:link
+       rel="alternate"
+       hreflang="vi"
+       href="https://laptrinhcanban.com/java/java-co-ban-cho-nguoi-moi-bat-dau/cai-dat-java/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="en"
+       href="https://laptrinhcanban.com/en/java/java-co-ban-cho-nguoi-moi-bat-dau/cai-dat-java/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="ja"
+       href="https://laptrinhcanban.com/ja/java/java-co-ban-cho-nguoi-moi-bat-dau/cai-dat-java/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="x-default"
+       href="https://laptrinhcanban.com/java/java-co-ban-cho-nguoi-moi-bat-dau/cai-dat-java/"/>
     
     <lastmod>2021-10-21</lastmod>
     
@@ -26430,29 +26430,6 @@
   </url>
   
   <url>
-    <loc>https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/chuoi-trong-javascript/chuyen-chuoi-thanh-mang-trong-javascript/</loc>
-    <xhtml:link
-       rel="alternate"
-       hreflang="vi"
-       href="https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/chuoi-trong-javascript/chuyen-chuoi-thanh-mang-trong-javascript/"/>
-    <xhtml:link
-       rel="alternate"
-       hreflang="en"
-       href="https://laptrinhcanban.com/en/javascript/javascript-co-ban-den-nang-cao/chuoi-trong-javascript/chuyen-chuoi-thanh-mang-trong-javascript/"/>
-    <xhtml:link
-       rel="alternate"
-       hreflang="ja"
-       href="https://laptrinhcanban.com/ja/javascript/javascript-co-ban-den-nang-cao/chuoi-trong-javascript/chuyen-chuoi-thanh-mang-trong-javascript/"/>
-    <xhtml:link
-       rel="alternate"
-       hreflang="x-default"
-       href="https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/chuoi-trong-javascript/chuyen-chuoi-thanh-mang-trong-javascript/"/>
-    
-    <lastmod>2021-08-01</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/chuoi-trong-javascript/dem-so-lan-xuat-hien-cua-ky-tu-trong-chuoi-javascript/</loc>
     <xhtml:link
        rel="alternate"
@@ -26470,6 +26447,29 @@
        rel="alternate"
        hreflang="x-default"
        href="https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/chuoi-trong-javascript/dem-so-lan-xuat-hien-cua-ky-tu-trong-chuoi-javascript/"/>
+    
+    <lastmod>2021-08-01</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/chuoi-trong-javascript/chuyen-chuoi-thanh-mang-trong-javascript/</loc>
+    <xhtml:link
+       rel="alternate"
+       hreflang="vi"
+       href="https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/chuoi-trong-javascript/chuyen-chuoi-thanh-mang-trong-javascript/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="en"
+       href="https://laptrinhcanban.com/en/javascript/javascript-co-ban-den-nang-cao/chuoi-trong-javascript/chuyen-chuoi-thanh-mang-trong-javascript/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="ja"
+       href="https://laptrinhcanban.com/ja/javascript/javascript-co-ban-den-nang-cao/chuoi-trong-javascript/chuyen-chuoi-thanh-mang-trong-javascript/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="x-default"
+       href="https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/chuoi-trong-javascript/chuyen-chuoi-thanh-mang-trong-javascript/"/>
     
     <lastmod>2021-08-01</lastmod>
     
@@ -26522,29 +26522,6 @@
   </url>
   
   <url>
-    <loc>https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/chuoi-trong-javascript/lay-ky-tu-trong-chuoi-javascript-charat/</loc>
-    <xhtml:link
-       rel="alternate"
-       hreflang="vi"
-       href="https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/chuoi-trong-javascript/lay-ky-tu-trong-chuoi-javascript-charat/"/>
-    <xhtml:link
-       rel="alternate"
-       hreflang="en"
-       href="https://laptrinhcanban.com/en/javascript/javascript-co-ban-den-nang-cao/chuoi-trong-javascript/lay-ky-tu-trong-chuoi-javascript-charat/"/>
-    <xhtml:link
-       rel="alternate"
-       hreflang="ja"
-       href="https://laptrinhcanban.com/ja/javascript/javascript-co-ban-den-nang-cao/chuoi-trong-javascript/lay-ky-tu-trong-chuoi-javascript-charat/"/>
-    <xhtml:link
-       rel="alternate"
-       hreflang="x-default"
-       href="https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/chuoi-trong-javascript/lay-ky-tu-trong-chuoi-javascript-charat/"/>
-    
-    <lastmod>2021-08-01</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/chuoi-trong-javascript/lay-diem-ma-ky-tu-trong-chuoi-javascript-codepointat/</loc>
     <xhtml:link
        rel="alternate"
@@ -26562,6 +26539,29 @@
        rel="alternate"
        hreflang="x-default"
        href="https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/chuoi-trong-javascript/lay-diem-ma-ky-tu-trong-chuoi-javascript-codepointat/"/>
+    
+    <lastmod>2021-08-01</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/chuoi-trong-javascript/lay-ky-tu-trong-chuoi-javascript-charat/</loc>
+    <xhtml:link
+       rel="alternate"
+       hreflang="vi"
+       href="https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/chuoi-trong-javascript/lay-ky-tu-trong-chuoi-javascript-charat/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="en"
+       href="https://laptrinhcanban.com/en/javascript/javascript-co-ban-den-nang-cao/chuoi-trong-javascript/lay-ky-tu-trong-chuoi-javascript-charat/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="ja"
+       href="https://laptrinhcanban.com/ja/javascript/javascript-co-ban-den-nang-cao/chuoi-trong-javascript/lay-ky-tu-trong-chuoi-javascript-charat/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="x-default"
+       href="https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/chuoi-trong-javascript/lay-ky-tu-trong-chuoi-javascript-charat/"/>
     
     <lastmod>2021-08-01</lastmod>
     
@@ -26591,29 +26591,6 @@
   </url>
   
   <url>
-    <loc>https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/chuoi-trong-javascript/surrogate-pair-characters-trong-javascript/</loc>
-    <xhtml:link
-       rel="alternate"
-       hreflang="vi"
-       href="https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/chuoi-trong-javascript/surrogate-pair-characters-trong-javascript/"/>
-    <xhtml:link
-       rel="alternate"
-       hreflang="en"
-       href="https://laptrinhcanban.com/en/javascript/javascript-co-ban-den-nang-cao/chuoi-trong-javascript/surrogate-pair-characters-trong-javascript/"/>
-    <xhtml:link
-       rel="alternate"
-       hreflang="ja"
-       href="https://laptrinhcanban.com/ja/javascript/javascript-co-ban-den-nang-cao/chuoi-trong-javascript/surrogate-pair-characters-trong-javascript/"/>
-    <xhtml:link
-       rel="alternate"
-       hreflang="x-default"
-       href="https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/chuoi-trong-javascript/surrogate-pair-characters-trong-javascript/"/>
-    
-    <lastmod>2021-08-01</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/chuoi-trong-javascript/noi-chuoi-trong-javascript/</loc>
     <xhtml:link
        rel="alternate"
@@ -26637,23 +26614,23 @@
   </url>
   
   <url>
-    <loc>https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/chuoi-trong-javascript/tach-so-trong-chuoi-javascript/</loc>
+    <loc>https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/chuoi-trong-javascript/surrogate-pair-characters-trong-javascript/</loc>
     <xhtml:link
        rel="alternate"
        hreflang="vi"
-       href="https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/chuoi-trong-javascript/tach-so-trong-chuoi-javascript/"/>
+       href="https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/chuoi-trong-javascript/surrogate-pair-characters-trong-javascript/"/>
     <xhtml:link
        rel="alternate"
        hreflang="en"
-       href="https://laptrinhcanban.com/en/javascript/javascript-co-ban-den-nang-cao/chuoi-trong-javascript/tach-so-trong-chuoi-javascript/"/>
+       href="https://laptrinhcanban.com/en/javascript/javascript-co-ban-den-nang-cao/chuoi-trong-javascript/surrogate-pair-characters-trong-javascript/"/>
     <xhtml:link
        rel="alternate"
        hreflang="ja"
-       href="https://laptrinhcanban.com/ja/javascript/javascript-co-ban-den-nang-cao/chuoi-trong-javascript/tach-so-trong-chuoi-javascript/"/>
+       href="https://laptrinhcanban.com/ja/javascript/javascript-co-ban-den-nang-cao/chuoi-trong-javascript/surrogate-pair-characters-trong-javascript/"/>
     <xhtml:link
        rel="alternate"
        hreflang="x-default"
-       href="https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/chuoi-trong-javascript/tach-so-trong-chuoi-javascript/"/>
+       href="https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/chuoi-trong-javascript/surrogate-pair-characters-trong-javascript/"/>
     
     <lastmod>2021-08-01</lastmod>
     
@@ -26677,6 +26654,29 @@
        rel="alternate"
        hreflang="x-default"
        href="https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/chuoi-trong-javascript/thay-the-ky-tu-trong-chuoi-javascript/"/>
+    
+    <lastmod>2021-08-01</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/chuoi-trong-javascript/tach-so-trong-chuoi-javascript/</loc>
+    <xhtml:link
+       rel="alternate"
+       hreflang="vi"
+       href="https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/chuoi-trong-javascript/tach-so-trong-chuoi-javascript/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="en"
+       href="https://laptrinhcanban.com/en/javascript/javascript-co-ban-den-nang-cao/chuoi-trong-javascript/tach-so-trong-chuoi-javascript/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="ja"
+       href="https://laptrinhcanban.com/ja/javascript/javascript-co-ban-den-nang-cao/chuoi-trong-javascript/tach-so-trong-chuoi-javascript/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="x-default"
+       href="https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/chuoi-trong-javascript/tach-so-trong-chuoi-javascript/"/>
     
     <lastmod>2021-08-01</lastmod>
     
