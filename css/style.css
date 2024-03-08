@@ -1701,11 +1701,11 @@ pre .javascript .function {
 }
 .widget ul ul,
 .widget ol ul {
-  list-style: disc;
+  list-style: none;
 }
 .widget ul ol,
 .widget ol ol {
-  list-style: decimal;
+  list-style: none;
 }
 .category-list-count,
 .tag-list-count,
